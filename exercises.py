@@ -72,6 +72,12 @@ print(quotient)
 
 #Print the da_diva variable to see your result.
 
+def check_sum(x):
+    return "Mariah Carey has been married " + str(x) + " amount of times."
+
+da_diva = check_sum(sum)
+print(da_diva)
+
 
 #7
 #Function - check_difference
