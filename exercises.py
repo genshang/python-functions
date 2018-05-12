@@ -59,6 +59,11 @@ print(product)
 
 #Print the quotient variable to see your result.
 
+def divide(num_1, num_2):
+    return num_1 / num_2
+
+quotient = divide(box_1, box_2)
+print(quotient)
 
 #6
 #Function - check_sum
