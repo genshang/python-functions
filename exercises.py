@@ -31,6 +31,11 @@ print(sum)
 
 #Print the difference variable to see your result.
 
+def subtract(num_1, num_2):
+    return num_1 - num_2
+
+difference = subtract(box_1, box_2)
+print(difference)
 
 #4
 # Function - multiply
