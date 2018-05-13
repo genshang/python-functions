@@ -87,6 +87,12 @@ print(da_diva)
 
 #Print the loving_it variable to see your result.
 
+def check_difference(x):
+    return "Last night I dreamt that I ate " + str(x) + " Big Macs."
+
+loving_it = check_difference(difference)
+print(loving_it)
+
 
 #8
 #Function - check_product
