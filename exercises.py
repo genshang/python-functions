@@ -124,7 +124,10 @@ print(check_quotient())
 
 #Print the my_full_name variable to see your result.
 
+def create_full_name(first_name, last_name):
+    return first_name + " " + last_name
 
+print(create_full_name("Shang", "Ong"))
 
 
 
