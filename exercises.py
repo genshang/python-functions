@@ -111,6 +111,10 @@ print(check_product())
 
 #This function will multiply the values stored in the product and quotient variables. Invoke this function and print your result.
 
+def check_quotient():
+    return product * quotient
+
+print(check_quotient())
 
 #10
 #Function - create_full_name
