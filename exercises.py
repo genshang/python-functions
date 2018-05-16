@@ -127,7 +127,9 @@ print(check_quotient())
 def create_full_name(first_name, last_name):
     return first_name + " " + last_name
 
-print(create_full_name("Shang", "Ong"))
+my_full_name = create_full_name("Shang", "Ong")
+
+print(my_full_name)
 
 
 
